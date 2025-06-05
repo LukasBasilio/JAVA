@@ -1,7 +1,10 @@
 com\mycompany\estudo1\Main.class
+pack2\CupomDescontoPedido.class
 pack1\Item.class
+pack2\MetodoCupomSimples.class
 pack1\MetodoDescontoTaxaEntrega.class
 pack1\MetodoDescontoTaxaPorTipoCliente.class
+pack2\MetodoDescontoPedido.class
 pack1\CalculadoraDeDescontoService.class
 pack1\MetodoDescontoValorPedido.class
 pack1\MetodoDescontoTaxaPorBairro.class
@@ -12,3 +15,4 @@ pack1\MetodoDescontoPorIntervaloDeDatas$IntervaloPromocional.class
 pack1\MetodoDescontoPorIntervaloDeDatas.class
 pack1\Cliente.class
 pack1\CupomDescontoEntrega.class
+pack2\CalculadoraDescontoPedidoService.class
